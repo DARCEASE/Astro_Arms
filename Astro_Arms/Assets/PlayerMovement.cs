@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
 
+    public int moveMagnitude;
+
 	// Use this for initialization
 	void Start () {
 		
